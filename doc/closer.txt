@@ -1,7 +1,7 @@
 *closer.txt*  automatically close brackets
 
 ==============================================================================
-INTRODUCTION                                                            *closer*
+INTRODUCTION                                                            *closer_renamed*
 
 *closer* automatically closes brackets for you.
 
